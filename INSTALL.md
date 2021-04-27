@@ -12,7 +12,7 @@
 \
 2. Switch to new Design;\
 2.1. First Click in "Dev tools"\
-![First Step to switch to new Design](./assets/Old-Design.png)
+![First Step to switch to new Design](./assets/Old-Design.png)\
 2.2. Click in "Preview new design"\
 ![First Step to switch to new Design](./assets/Dark-Reader-Tools.png)
 
