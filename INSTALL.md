@@ -13,12 +13,11 @@
 2. Switch to new Design;\
 2.1. First Click in "Dev tools"\
 ![First Step to switch to new Design](./assets/Old-Design.png)
-
 2.2. Click in "Preview new design"\
 ![First Step to switch to new Design](./assets/Dark-Reader-Tools.png)
-\
-\
 
+\
+\
 3. Insert Dracula Colors\
 3.1. Go to "See all options"\
 ![See all options](./assets/See-All-Options.png)\
