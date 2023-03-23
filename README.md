@@ -5,10 +5,7 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
-<!---
-LINK IS DEAD
-All instructions can be found at [draculatheme.com/darkReader](https://draculatheme.com/darkReader).
--->
+
 After installing a Dark Reader to web browser of choice, we will be proceeding to setting up DR for Dracula theme.
 
     Click on "Dev Tools"
@@ -57,11 +54,12 @@ Drop down has a few default choices but you can manually type your font of choic
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of awesome contributors.
 
-[![Dpbm](https://github.com/Dpbm.png?size=100)](https://github.com/Dpbm) |
---- |
-[Dpbm](https://github.com/Dpbm) |
+| [![Dpbm](https://github.com/Dpbm.png?size=100)](https://github.com/Dpbm) | [<img alt="jakub1812" src="https://github.com/jakub1812.png" width=100px>](https://github.com/jakub1812) |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| [Dpbm](https://github.com/Dpbm)                                          | [jakub1812](https://github.com/jakub1812)                                                                |
+
 
 ## License
 
