@@ -56,9 +56,9 @@ Drop down has a few default choices but you can manually type your font of choic
 
 This theme is maintained by the following person(s) and a bunch of awesome contributors.
 
-| [![Dpbm](https://github.com/Dpbm.png?size=100)](https://github.com/Dpbm) | [![jakub1812](https://github.com/jakub1812.png?size=100)](https://github.com/jakub1812)
+| [![Dpbm](https://github.com/Dpbm.png?size=100)](https://github.com/Dpbm) | [![JakubZ0](https://github.com/JakubZ0.png?size=100)](https://github.com/JakubZ0)
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| [Dpbm](https://github.com/Dpbm)                                          | [jakub1812](https://github.com/jakub1812)                                                                |
+| [Dpbm](https://github.com/Dpbm)                                          | [JakubZ0](https://github.com/JakubZ0)                                                                |
 
 ## License
 
