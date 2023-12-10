@@ -6,49 +6,48 @@
 
 ## Install
 
-After installing a Dark Reader to web browser of choice, we will be proceeding to setting up DR for Dracula theme.
+After installing a Dark Reader to your web browser of choice, follow the steps bellow to add Dracula theme to your `Dark Reader`:
 
-    Click on "Dev Tools"
+1. Click on "Dev Tools"
 
 ![devtools](./assets/devtools.png)
 
-    Enable "Preview new design" to unlock full potential of DR
+2. Enable "Preview new design"
+   
 ![newdesign](./assets/newdesign.png)
 
 
-    Click "See all options" so we can make actual changes, after that click on "Colors"
+3. Click "See all options"
 
 ![custom_options](./assets/custom_options.png)
 
-    Set Dracula Theme hex values to following:
+4. Click on "Colors"
 
+4. set the following values:
 
-Background --> `#282a36`
+|Field|Value|
+|-----|------|
+|Background | `#282a36` |
+|Text | `#f8f8f2` |
+|Scrollbar --> custom |  `#6272a4` |
+|Selection --> custom | `#44475a` |
 
-
-Text --> `#f8f8f2`
-
-
-Scrollbar --> custom --> `#6272a4`
-
-
-Selection --> custom: --> `#44475a`
-<h2>Results should look like this:</h2>
+### The final result should be something like this:
 
 ![colors](./assets/Colors.png)
 
+
 ## Optional
 ### Custom Font
-Dark Reader also allows you to set custom fontsm that will be forced on websites.
-To achieve this come back to "See all options", and then "Fonts & more".
+Dark Reader also allows you to set custom fonts that will used on the websites you visit.
 
-Change "Change font" setting to Yes, then you will be able to change your fonts under "Font name".
+To apply this, get back to "See all options", and then "Fonts & more".
 
-Drop down has a few default choices but you can manually type your font of choice, I've choose Inter.
+Switch the "Change font" setting to `Yes`, then you will be able to change your fonts under "Font name".
 
+The drop down has a few default choices, but you can manually type your font of choice if you want.
 
-![optional_font](./assets/optional_custom_font.png)
-
+![custom font](./assets/optional_custom_font.png)
 
 
 
