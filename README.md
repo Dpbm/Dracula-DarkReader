@@ -2,62 +2,81 @@
 
 > A dark theme for [Dark Reader](https://darkreader.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./assets/screenshot.png)
 
 ## Install
 
-After installing a Dark Reader to your web browser of choice, follow the steps bellow to add Dracula theme to your `Dark Reader`:
+After installing Dark Reader to your web browser of choice, follow the steps bellow to add the Dracula theme:
 
-1. Click on "Dev Tools"
+1. Click on `More`
 
-![devtools](./assets/devtools.png)
+![more](./assets/more.png)
 
-2. Enable "Preview new design"
+2. Click on `All Settings`
    
-![newdesign](./assets/newdesign.png)
+![all settings](./assets/all_settings.png)
 
+3. Click on `Advanced`
 
-3. Click "See all options"
+![advanced](./assets/advanced.png)
 
-![custom_options](./assets/custom_options.png)
+4. Click on `Dev Tools`
 
-4. Click on "Colors"
+![dev tools](./assets/dev_tools.png)
 
-4. set the following values:
+5. Click on `Advanced` again
 
-|Field|Value|
-|-----|------|
-|Background | `#282a36` |
-|Text | `#f8f8f2` |
-|Scrollbar --> custom |  `#6272a4` |
-|Selection --> custom | `#44475a` |
+![dev tools](./assets/advanced_dev_tools.png)
 
-### The final result should be something like this:
+6. Change to new design
 
-![colors](./assets/Colors.png)
+![new design](./assets/new_design.png)
+
+7. Reopen the extension
+
+8. Click on `See all Options`
+
+![see all options](./assets/see_all_options.png)
+
+9. Click on `Colors`
+
+![colors](./assets/colors.png)
+
+10. Change the color scheme to `Dracula`
+
+![change colors](./assets/change_colors.png)
 
 
 ## Optional
 ### Custom Font
-Dark Reader also allows you to set custom fonts that will used on the websites you visit.
+Dark Reader also allows you to set custom fonts that will be used on the websites you visit.
 
-To apply this, get back to "See all options", and then "Fonts & more".
+To change this:
 
-Switch the "Change font" setting to `Yes`, then you will be able to change your fonts under "Font name".
+1. reopen the extension
 
-The drop down has a few default choices, but you can manually type your font of choice if you want.
+2. Click on `See all Options`
 
-![custom font](./assets/optional_custom_font.png)
+![see all options](./assets/see_all_options.png)
 
+3. Click on `Font & More`
+
+![see all options](./assets/font.png)
+
+4. Then change the `Change font` selector from `No` to `Yes`
+
+![allow change font](./assets/change_font.png)
+
+5. Now, you can use the `Font Name` selector to insert which font do you want to use
 
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of awesome contributors.
 
-| [![Dpbm](https://github.com/Dpbm.png?size=100)](https://github.com/Dpbm) | [![JakubZ0](https://github.com/JakubZ0.png?size=100)](https://github.com/JakubZ0)
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| [Dpbm](https://github.com/Dpbm)                                          | [JakubZ0](https://github.com/JakubZ0)                                                                |
+| [![Dpbm](https://github.com/Dpbm.png?size=100)](https://github.com/Dpbm) | [![JakubZ0](https://github.com/JakubZ0.png?size=100)](https://github.com/JakubZ0) | [![CBroz1](https://github.com/CBroz1.png?size=100)](https://github.com/CBroz1) |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Dpbm](https://github.com/Dpbm)                                          | [JakubZ0](https://github.com/JakubZ0)                                             | [CBroz1](https://github.com/CBroz1) |
 
 ## License
 
