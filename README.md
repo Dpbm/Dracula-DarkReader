@@ -2,7 +2,7 @@
 
 > A dark theme for [Dark Reader](https://darkreader.org/).
 
-![Screenshot](./assets/screenshot.png)
+![screenshot](./assets/screenshot.png)
 
 ## Install
 
